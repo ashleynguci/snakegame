@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+  background-color: darksalmon;
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    text-shadow: gray 3px 2px;
+}
+#canvas {
+  background: url("https://onaircode.com/wp-content/uploads/2017/11/Constellation.jpg")
+}
+
